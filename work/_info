@@ -1,0 +1,195 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\Term3\LD
+vadder
+Z1 !s100 e^Jo0[lBiW9Ujz>BXT_UL2
+Z2 IYV^:Q`WPoShHYNI002<7Z0
+Z3 VnHhZ1z8A?m=o7Q8Dk_@?`2
+Z4 dE:\CAD
+Z5 w1605459736
+Z6 8E:/CAD/adder.v
+Z7 FE:/CAD/adder.v
+L0 2
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|E:/CAD/adder.v|
+Z10 o-work work -O0
+Z11 !s108 1605463425.008000
+Z12 !s107 E:/CAD/adder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdatapath
+Z13 I43Xd5U0K_;C?b;eN`WEo20
+Z14 V<`nWB[>Q=Do2<Ch@=e^5g0
+R4
+Z15 w1605463416
+Z16 8E:/CAD/datapath.v
+Z17 FE:/CAD/datapath.v
+L0 2
+R8
+r1
+31
+R10
+!i10b 1
+Z18 !s100 X3S]`XfX=O_cICEmmebD=1
+!s85 0
+Z19 !s108 1605463425.627000
+Z20 !s107 E:/CAD/datapath.v|
+Z21 !s90 -reportprogress|300|-work|work|E:/CAD/datapath.v|
+!s101 -O0
+vregister_4
+Z22 !s100 ?a[G6McT`<:Yb`n<hZ9Uz3
+Z23 IHnI4bHfeAkmfLd]4z<f6f2
+Z24 V[2?_P6_6[D>1ocdMhXAR?2
+R4
+Z25 w1605459625
+Z26 8E:/CAD/register4.v
+Z27 FE:/CAD/register4.v
+L0 2
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|E:/CAD/register4.v|
+R10
+Z29 !s108 1605463425.226000
+Z30 !s107 E:/CAD/register4.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vregister_8
+Z31 !s100 Hb5dXJjVTSA5Oo>G_42:60
+Z32 ICdSUMZemTPaffX7eLFjzF0
+Z33 V`Q:BC2GmcE9VQ2@X8=83;2
+R4
+Z34 w1605458677
+Z35 8E:/CAD/register8.v
+Z36 FE:/CAD/register8.v
+L0 2
+R8
+r1
+31
+Z37 !s90 -reportprogress|300|-work|work|E:/CAD/register8.v|
+R10
+Z38 !s108 1605463425.488000
+Z39 !s107 E:/CAD/register8.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vshift_left_8
+Z40 !s100 1@8_1ei62OZ;D?z0gMleD0
+Z41 I_bY4D@7_S;XHAnHR`Q44B3
+Z42 VhaM17c[_bb2PdnidbdVH80
+R4
+Z43 w1605459715
+Z44 8E:/CAD/shift_left.v
+Z45 FE:/CAD/shift_left.v
+L0 2
+R8
+r1
+31
+Z46 !s90 -reportprogress|300|-work|work|E:/CAD/shift_left.v|
+R10
+Z47 !s108 1605463424.615000
+Z48 !s107 E:/CAD/shift_left.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vshift_lwft_8
+Z49 !s100 ^gUm48>eUK@;`U=iX5bfj0
+Z50 I1:2oW3jHzfnG>1NSU@DAI3
+Z51 VG23U3Z[c@4k0Q4MKnV@hI0
+R4
+Z52 w1605458334
+R6
+R7
+L0 2
+R8
+r1
+31
+R9
+R10
+Z53 !s108 1605459718.864000
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vtwo_mult
+Z54 !s100 W:EHcDQRRj_^WN9]=PMgL1
+Z55 Imka[@ji4jTUPQo:PA[OC53
+Z56 Vi>[kbCmKH>alMFD`8cH9@2
+R4
+Z57 w1605459611
+Z58 8E:/CAD/two_two_multiplier.v
+Z59 FE:/CAD/two_two_multiplier.v
+L0 2
+R8
+r1
+31
+Z60 !s90 -reportprogress|300|-work|work|E:/CAD/two_two_multiplier.v|
+R10
+Z61 !s108 1605463424.284000
+Z62 !s107 E:/CAD/two_two_multiplier.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtwo_mux
+Z63 !s100 K^c_oZc0D4bGI=ISmnWNA0
+Z64 IfdnWOJ:OGc^_IFUGL0^jK0
+Z65 VGLcg;4JZNb>I40;EVkdl32
+R4
+Z66 w1605456615
+Z67 8E:/CAD/two_bit_mux.v
+Z68 FE:/CAD/two_bit_mux.v
+L0 2
+R8
+r1
+31
+Z69 !s90 -reportprogress|300|-work|work|E:/CAD/two_bit_mux.v|
+R10
+Z70 !s108 1605463424.456000
+Z71 !s107 E:/CAD/two_bit_mux.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtwo_mux_8
+!i10b 1
+Z72 !s100 ]7XdD<1kZO=gE=KNco0cV3
+Z73 I@2GUC^kzTaF`?ek?mAnSY3
+Z74 V75@`n@[TRnFS[E_V26`CN0
+R4
+Z75 w1605462864
+Z76 8E:/CAD/two_bit_mux8.v
+Z77 FE:/CAD/two_bit_mux8.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1605463425.760000
+!s107 E:/CAD/two_bit_mux8.v|
+Z78 !s90 -reportprogress|300|-work|work|E:/CAD/two_bit_mux8.v|
+!s101 -O0
+R10
+vzero_extend
+Z79 !s100 9LC@HK^]1]D;V1N@OYWkQ0
+Z80 I0ZNkA76`[@b[mLA[SO8IZ1
+Z81 Vg;Ib8bI[]@9VlhgGT]U9W3
+R4
+Z82 w1605463205
+Z83 8E:/CAD/signext.v
+Z84 FE:/CAD/signext.v
+L0 2
+R8
+r1
+31
+Z85 !s90 -reportprogress|300|-work|work|E:/CAD/signext.v|
+R10
+Z86 !s108 1605463424.814000
+Z87 !s107 E:/CAD/signext.v|
+!i10b 1
+!s85 0
+!s101 -O0
