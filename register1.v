@@ -1,0 +1,7 @@
+`timescale 1ns/1ns
+module register_1(input a, input clk,rst,ld, output reg b);
+  always@(posedge clk , posedge rst) begin
+    if (rst) b = 1'b0;
+    else if (ld) b <= a;
+  end
+endmodule

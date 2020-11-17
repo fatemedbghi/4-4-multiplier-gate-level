@@ -5,6 +5,13 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	datapath
 
+} {} {}} E:/CAD/add_one_bit.v {1 {vlog -work work E:/CAD/add_one_bit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module adder_1
+
+Top level modules:
+	adder_1
+
 } {} {}} E:/CAD/adder.v {1 {vlog -work work E:/CAD/adder.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling module adder
@@ -18,20 +25,6 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 
 Top level modules:
 	shift_left_8
-
-} {} {}} E:/CAD/two_bit_mux8.v {1 {vlog -work work E:/CAD/two_bit_mux8.v
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module two_mux_8
-
-Top level modules:
-	two_mux_8
-
-} {} {}} E:/CAD/two_two_multiplier.v {1 {vlog -work work E:/CAD/two_two_multiplier.v
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module two_mult
-
-Top level modules:
-	two_mult
 
 } {} {}} E:/CAD/register4.v {1 {vlog -work work E:/CAD/register4.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
@@ -53,6 +46,27 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 
 Top level modules:
 	two_mux
+
+} {} {}} E:/CAD/two_two_multiplier.v {1 {vlog -work work E:/CAD/two_two_multiplier.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module two_mult
+
+Top level modules:
+	two_mult
+
+} {} {}} E:/CAD/two_bit_mux8.v {1 {vlog -work work E:/CAD/two_bit_mux8.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module two_mux_8
+
+Top level modules:
+	two_mux_8
+
+} {} {}} E:/CAD/register1.v {1 {vlog -work work E:/CAD/register1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module register_1
+
+Top level modules:
+	register_1
 
 } {} {}} E:/CAD/signext.v {1 {vlog -work work E:/CAD/signext.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012

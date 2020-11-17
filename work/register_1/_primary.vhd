@@ -1,11 +1,11 @@
 library verilog;
 use verilog.vl_types.all;
-entity register_8 is
+entity register_1 is
     port(
-        a               : in     vl_logic_vector(7 downto 0);
+        a               : in     vl_logic;
         clk             : in     vl_logic;
         rst             : in     vl_logic;
         ld              : in     vl_logic;
-        b               : out    vl_logic_vector(7 downto 0)
+        b               : out    vl_logic
     );
-end register_8;
+end register_1;
