@@ -1,7 +1,7 @@
 `timescale 1ns/1ns
 module two_mux(input [1:0]a, input [1:0]b, input s, output [1:0]c);
   
-  wire snoti,j,k,l;
+  wire snot,i,j,k,l;
   
   not not1(snot,s);
   

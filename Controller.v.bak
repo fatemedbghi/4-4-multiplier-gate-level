@@ -1,0 +1,45 @@
+`timescale 1ns/1ns
+module controller(input start, clk, enable, output rst, ld, s0, s1, s2);
+
+    wire A, B, C;
+    wire _A, _B, _C;
+    wire and_A_1, and_A_2, and_B_1, and_B_2, and_C_1, and_C_2, and_C_3;
+    //wire _and_s0_1, _and_s0_2;
+
+    // _A to A 
+    and GA1(and_A_1, A, ~B);
+    and GA2(and_A_2, B, C);
+    or GA3(_A, and_A_1, and_A_2);
+    D_flip_flop D_A(_A, clk, enable, A);
+
+    // _B to B
+    and GB1(and_B_1, B, ~C);
+    and GB2(and_B_2, ~A, B, ~C);
+    or GB(_B, and_B_1, and_B_2);
+    D_flip_flop D_B(_B, clk, enable, B);
+
+    // _C to C
+    and GC1(and_C_1, ~A, ~C, start);
+    and GC2(and_C_2, ~A, B, ~C);
+    and GC3(and_C_3, A, ~B, ~C);
+    or GC4(_C, and_C_1, and_C_2, and_C_3);
+    D_flip_flop D_C(_C, clk, enable, C);
+
+    //ld
+    //or or_ld(ld, A, B);
+
+    //rst
+    //and and_rst(rst, ~A, ~B, C);
+
+    //s0
+    //and and_s0_1(_and_s0_1, A, C);
+    //and and_s0_2(_and_s0_2, A, B);
+    //or or_s0_1(s0, _and_s0_1, _and_s0_2);
+
+    //s1
+    //and and_s1(s1, A, ~C);
+
+    //s2
+    //and and_s2(s2, A, ~C);
+
+endmodule 

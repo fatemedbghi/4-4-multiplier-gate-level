@@ -8,7 +8,7 @@ Z1 !s100 <oWebc668z@86zIM1RUPY3
 Z2 IQW^dliU1UP2Ao?GTk?<gn1
 Z3 V?S@nLOfjXMM]ZCcVa;WPX0
 Z4 dE:\CAD
-Z5 w1605621444
+Z5 w1605940342
 Z6 8E:/CAD/adder.v
 Z7 FE:/CAD/adder.v
 L0 2
@@ -17,13 +17,12 @@ r1
 31
 Z9 !s90 -reportprogress|300|-work|work|E:/CAD/adder.v|
 Z10 o-work work -O0
-Z11 !s108 1605622762.762000
+Z11 !s108 1605942071.545000
 Z12 !s107 E:/CAD/adder.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vadder_1
-!i10b 1
 Z13 !s100 KAU`JQa65f<LRP?a>^Cn43
 Z14 IPo2Efl<:Ql@JN5hMWF3[>3
 Z15 VlF44KAA2SfdfLjV=eeb7k3
@@ -34,114 +33,173 @@ Z18 FE:/CAD/add_one_bit.v
 L0 2
 R8
 r1
-!s85 0
 31
-!s108 1605622763.681000
-!s107 E:/CAD/add_one_bit.v|
 Z19 !s90 -reportprogress|300|-work|work|E:/CAD/add_one_bit.v|
-!s101 -O0
 R10
-vdatapath
-Z20 IQS3_=obT<TROD00=i2S9X0
-Z21 VBjli3hYAXTjV4XnbkzX4Z0
+Z20 !s108 1605942072.432000
+Z21 !s107 E:/CAD/add_one_bit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontroller
+Z22 !s100 4?j^:;PgTY5eFRf5[ldU;3
+Z23 IWmA0Rhf>H0NHL3M6@Ldg]0
+Z24 V1:2m;:98cZ<MfKd5F2PXo1
 R4
-Z22 w1605622760
-Z23 8E:/CAD/datapath.v
-Z24 FE:/CAD/datapath.v
+Z25 w1605940218
+Z26 8E:/CAD/Controller.v
+Z27 FE:/CAD/Controller.v
 L0 2
 R8
 r1
 31
-Z25 !s90 -reportprogress|300|-work|work|E:/CAD/datapath.v|
+Z28 !s90 -reportprogress|300|-work|work|E:/CAD/Controller.v|
 R10
-Z26 !s100 ?EfWoGX?H282^A?aJ_bT61
-Z27 !s108 1605622763.210000
-Z28 !s107 E:/CAD/datapath.v|
+Z29 !s108 1605942072.571000
+Z30 !s107 E:/CAD/Controller.v|
 !i10b 1
 !s85 0
+!s101 -O0
+vD_flip_flop
+Z31 !s100 :TG:zK1G6<emOB1IGhnf93
+Z32 I6heFMVJ<dEYF6;?i:[Pi@0
+Z33 V77UP92RhImaiI;mcibIT>1
+R4
+Z34 w1605940428
+Z35 8E:/CAD/D_flip_flop.v
+Z36 FE:/CAD/D_flip_flop.v
+L0 2
+R8
+r1
+31
+Z37 !s90 -reportprogress|300|-work|work|E:/CAD/D_flip_flop.v|
+R10
+Z38 n@d_flip_flop
+Z39 !s108 1605942072.691000
+Z40 !s107 E:/CAD/D_flip_flop.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdatapath
+Z41 !s100 65^B3@9Cb:m5<coQ]KZo[3
+Z42 ICR1Ygz@H`Ra583K6<ATY20
+Z43 V<`nWB[>Q=Do2<Ch@=e^5g0
+R4
+Z44 w1605941156
+Z45 8E:/CAD/datapath.v
+Z46 FE:/CAD/datapath.v
+L0 2
+R8
+r1
+31
+Z47 !s90 -reportprogress|300|-work|work|E:/CAD/datapath.v|
+R10
+Z48 !s108 1605942071.997000
+Z49 !s107 E:/CAD/datapath.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmultiplier_4
+Z50 !s100 a0]CM6Tb<QgE0EQ_g34]j2
+Z51 I02a3MQA6IjW[@:7lK]Ye[3
+Z52 V9WO`T42<NOGLga12?Q`W?2
+R4
+Z53 w1605940382
+Z54 8E:/CAD/Multiplier.v
+Z55 FE:/CAD/Multiplier.v
+L0 2
+R8
+r1
+31
+Z56 !s90 -reportprogress|300|-work|work|E:/CAD/Multiplier.v|
+R10
+!i10b 1
+!s85 0
+Z57 !s108 1605942072.839000
+Z58 !s107 E:/CAD/Multiplier.v|
 !s101 -O0
 vregister_1
-Z29 !s100 <D8oBg9n7hbz8dkzbNkFl1
-Z30 I3CMJZ@][^82KJjk[zUY`R0
-Z31 ViG78GWA@Bg:ed=Ij6AkGV0
+Z59 !s100 <D8oBg9n7hbz8dkzbNkFl1
+Z60 I3CMJZ@][^82KJjk[zUY`R0
+Z61 ViG78GWA@Bg:ed=Ij6AkGV0
 R4
-Z32 w1605619773
-Z33 8E:/CAD/register1.v
-Z34 FE:/CAD/register1.v
+Z62 w1605619773
+Z63 8E:/CAD/register1.v
+Z64 FE:/CAD/register1.v
 L0 2
 R8
 r1
 31
-Z35 !s90 -reportprogress|300|-work|work|E:/CAD/register1.v|
+Z65 !s90 -reportprogress|300|-work|work|E:/CAD/register1.v|
 R10
+Z66 !s108 1605942072.259000
+Z67 !s107 E:/CAD/register1.v|
 !i10b 1
 !s85 0
-Z36 !s108 1605622763.528000
-Z37 !s107 E:/CAD/register1.v|
 !s101 -O0
 vregister_4
-Z38 !s100 mKgU?fZJ_d@:6YH[8VM;P3
-Z39 I[DLDf:Y;=ggV5?dVFjl=N0
-Z40 V[2?_P6_6[D>1ocdMhXAR?2
+Z68 !s100 mKgU?fZJ_d@:6YH[8VM;P3
+Z69 I[DLDf:Y;=ggV5?dVFjl=N0
+Z70 V[2?_P6_6[D>1ocdMhXAR?2
 R4
-Z41 w1605622590
-Z42 8E:/CAD/register4.v
-Z43 FE:/CAD/register4.v
+Z71 w1605622590
+Z72 8E:/CAD/register4.v
+Z73 FE:/CAD/register4.v
 L0 2
 R8
 r1
 31
-Z44 !s90 -reportprogress|300|-work|work|E:/CAD/register4.v|
+Z74 !s90 -reportprogress|300|-work|work|E:/CAD/register4.v|
 R10
-Z45 !s108 1605622762.882000
-Z46 !s107 E:/CAD/register4.v|
+Z75 !s108 1605942071.692000
+Z76 !s107 E:/CAD/register4.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vregister_8
-Z47 !s100 bcEXZFEj<KngU?eVIHQe50
-Z48 I1;G];g[VeD1EPFZ71X1^Q2
-Z49 V>DBoXCKa`Oa6@iVNJ=jW42
+Z77 !s100 bcEXZFEj<KngU?eVIHQe50
+Z78 I1;G];g[VeD1EPFZ71X1^Q2
+Z79 V>DBoXCKa`Oa6@iVNJ=jW42
 R4
-Z50 w1605622595
-Z51 8E:/CAD/register8.v
-Z52 FE:/CAD/register8.v
+Z80 w1605622595
+Z81 8E:/CAD/register8.v
+Z82 FE:/CAD/register8.v
 L0 2
 R8
 r1
 31
-Z53 !s90 -reportprogress|300|-work|work|E:/CAD/register8.v|
+Z83 !s90 -reportprogress|300|-work|work|E:/CAD/register8.v|
 R10
-Z54 !s108 1605622763.057000
-Z55 !s107 E:/CAD/register8.v|
+Z84 !s108 1605942071.858000
+Z85 !s107 E:/CAD/register8.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vshift_left_8
-Z56 !s100 1@8_1ei62OZ;D?z0gMleD0
-Z57 I_bY4D@7_S;XHAnHR`Q44B3
-Z58 VhaM17c[_bb2PdnidbdVH80
+Z86 !s100 1@8_1ei62OZ;D?z0gMleD0
+Z87 I_bY4D@7_S;XHAnHR`Q44B3
+Z88 VhaM17c[_bb2PdnidbdVH80
 R4
-Z59 w1605459715
-Z60 8E:/CAD/shift_left.v
-Z61 FE:/CAD/shift_left.v
+Z89 w1605459715
+Z90 8E:/CAD/shift_left.v
+Z91 FE:/CAD/shift_left.v
 L0 2
 R8
 r1
 31
-Z62 !s90 -reportprogress|300|-work|work|E:/CAD/shift_left.v|
+Z92 !s90 -reportprogress|300|-work|work|E:/CAD/shift_left.v|
 R10
-Z63 !s108 1605622762.454000
-Z64 !s107 E:/CAD/shift_left.v|
+Z93 !s108 1605942071.245000
+Z94 !s107 E:/CAD/shift_left.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vshift_lwft_8
-Z65 !s100 ^gUm48>eUK@;`U=iX5bfj0
-Z66 I1:2oW3jHzfnG>1NSU@DAI3
-Z67 VG23U3Z[c@4k0Q4MKnV@hI0
+Z95 !s100 ^gUm48>eUK@;`U=iX5bfj0
+Z96 I1:2oW3jHzfnG>1NSU@DAI3
+Z97 VG23U3Z[c@4k0Q4MKnV@hI0
 R4
-Z68 w1605458334
+Z98 w1605458334
 R6
 R7
 L0 2
@@ -150,84 +208,104 @@ r1
 31
 R9
 R10
-Z69 !s108 1605459718.864000
+Z99 !s108 1605459718.864000
 R12
 !i10b 1
 !s85 0
 !s101 -O0
-vtwo_mult
-Z70 !s100 W:EHcDQRRj_^WN9]=PMgL1
-Z71 Imka[@ji4jTUPQo:PA[OC53
-Z72 Vi>[kbCmKH>alMFD`8cH9@2
+vTestBench
+!i10b 1
+!s100 ^`R78anVY1VU>EF0m]zKT0
+IG:k^hkXFjG6m87H4LXbNS0
+Z100 VH;VS]59WmQ>4a<zRibM9Z0
 R4
-Z73 w1605459611
-Z74 8E:/CAD/two_two_multiplier.v
-Z75 FE:/CAD/two_two_multiplier.v
+w1605942068
+Z101 8E:/CAD/TB.v
+Z102 FE:/CAD/TB.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1605942072.989000
+!s107 E:/CAD/TB.v|
+Z103 !s90 -reportprogress|300|-work|work|E:/CAD/TB.v|
+!s101 -O0
+R10
+Z104 n@test@bench
+vtwo_mult
+Z105 !s100 W:EHcDQRRj_^WN9]=PMgL1
+Z106 Imka[@ji4jTUPQo:PA[OC53
+Z107 Vi>[kbCmKH>alMFD`8cH9@2
+R4
+Z108 w1605940291
+Z109 8E:/CAD/two_two_multiplier.v
+Z110 FE:/CAD/two_two_multiplier.v
 L0 2
 R8
 r1
 31
-Z76 !s90 -reportprogress|300|-work|work|E:/CAD/two_two_multiplier.v|
+Z111 !s90 -reportprogress|300|-work|work|E:/CAD/two_two_multiplier.v|
 R10
-Z77 !s108 1605622762.172000
-Z78 !s107 E:/CAD/two_two_multiplier.v|
+Z112 !s108 1605942070.300000
+Z113 !s107 E:/CAD/two_two_multiplier.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vtwo_mux
-Z79 !s100 K^c_oZc0D4bGI=ISmnWNA0
-Z80 IfdnWOJ:OGc^_IFUGL0^jK0
-Z81 VGLcg;4JZNb>I40;EVkdl32
+Z114 !s100 9zBfNUz[;oDDFNDCELY:k0
+Z115 IE@1iIVWAabQ6;:l`><_No2
+Z116 VGLcg;4JZNb>I40;EVkdl32
 R4
-Z82 w1605456615
-Z83 8E:/CAD/two_bit_mux.v
-Z84 FE:/CAD/two_bit_mux.v
+Z117 w1605805120
+Z118 8E:/CAD/two_bit_mux.v
+Z119 FE:/CAD/two_bit_mux.v
 L0 2
 R8
 r1
 31
-Z85 !s90 -reportprogress|300|-work|work|E:/CAD/two_bit_mux.v|
+Z120 !s90 -reportprogress|300|-work|work|E:/CAD/two_bit_mux.v|
 R10
-Z86 !s108 1605622762.289000
-Z87 !s107 E:/CAD/two_bit_mux.v|
+Z121 !s108 1605942071.099000
+Z122 !s107 E:/CAD/two_bit_mux.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vtwo_mux_8
-Z88 !s100 ]7XdD<1kZO=gE=KNco0cV3
-Z89 I@2GUC^kzTaF`?ek?mAnSY3
-Z90 V75@`n@[TRnFS[E_V26`CN0
+Z123 !s100 ]7XdD<1kZO=gE=KNco0cV3
+Z124 I@2GUC^kzTaF`?ek?mAnSY3
+Z125 V75@`n@[TRnFS[E_V26`CN0
 R4
-Z91 w1605462864
-Z92 8E:/CAD/two_bit_mux8.v
-Z93 FE:/CAD/two_bit_mux8.v
+Z126 w1605462864
+Z127 8E:/CAD/two_bit_mux8.v
+Z128 FE:/CAD/two_bit_mux8.v
 L0 2
 R8
 r1
 31
-Z94 !s90 -reportprogress|300|-work|work|E:/CAD/two_bit_mux8.v|
+Z129 !s90 -reportprogress|300|-work|work|E:/CAD/two_bit_mux8.v|
 R10
-Z95 !s108 1605622763.357000
-Z96 !s107 E:/CAD/two_bit_mux8.v|
+Z130 !s108 1605942072.121000
+Z131 !s107 E:/CAD/two_bit_mux8.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vzero_extend
-Z97 !s100 9LC@HK^]1]D;V1N@OYWkQ0
-Z98 I0ZNkA76`[@b[mLA[SO8IZ1
-Z99 Vg;Ib8bI[]@9VlhgGT]U9W3
+Z132 !s100 9LC@HK^]1]D;V1N@OYWkQ0
+Z133 I0ZNkA76`[@b[mLA[SO8IZ1
+Z134 Vg;Ib8bI[]@9VlhgGT]U9W3
 R4
-Z100 w1605463205
-Z101 8E:/CAD/signext.v
-Z102 FE:/CAD/signext.v
+Z135 w1605463205
+Z136 8E:/CAD/signext.v
+Z137 FE:/CAD/signext.v
 L0 2
 R8
 r1
 31
-Z103 !s90 -reportprogress|300|-work|work|E:/CAD/signext.v|
+Z138 !s90 -reportprogress|300|-work|work|E:/CAD/signext.v|
 R10
-Z104 !s108 1605622762.616000
-Z105 !s107 E:/CAD/signext.v|
+Z139 !s108 1605942071.404000
+Z140 !s107 E:/CAD/signext.v|
 !i10b 1
 !s85 0
 !s101 -O0

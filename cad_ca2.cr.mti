@@ -1,4 +1,74 @@
-E:/CAD/datapath.v {1 {vlog -work work E:/CAD/datapath.v
+E:/CAD/Multiplier.v {1 {vlog -work work E:/CAD/Multiplier.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module multiplier_4
+
+Top level modules:
+	multiplier_4
+
+} {} {}} E:/CAD/adder.v {1 {vlog -work work E:/CAD/adder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} E:/CAD/two_two_multiplier.v {1 {vlog -work work E:/CAD/two_two_multiplier.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module two_mult
+
+Top level modules:
+	two_mult
+
+} {} {}} E:/CAD/two_bit_mux.v {1 {vlog -work work E:/CAD/two_bit_mux.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module two_mux
+
+Top level modules:
+	two_mux
+
+} {} {}} E:/CAD/register4.v {1 {vlog -work work E:/CAD/register4.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module register_4
+
+Top level modules:
+	register_4
+
+} {} {}} E:/CAD/signext.v {1 {vlog -work work E:/CAD/signext.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module zero_extend
+
+Top level modules:
+	zero_extend
+
+} {} {}} E:/CAD/Controller.v {1 {vlog -work work E:/CAD/Controller.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} E:/CAD/register8.v {1 {vlog -work work E:/CAD/register8.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module register_8
+
+Top level modules:
+	register_8
+
+} {} {}} E:/CAD/TB.v {1 {vlog -work work E:/CAD/TB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TestBench
+
+Top level modules:
+	TestBench
+
+} {} {}} E:/CAD/D_flip_flop.v {1 {vlog -work work E:/CAD/D_flip_flop.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module D_flip_flop
+
+Top level modules:
+	D_flip_flop
+
+} {} {}} E:/CAD/datapath.v {1 {vlog -work work E:/CAD/datapath.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling module datapath
 
@@ -12,47 +82,12 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	adder_1
 
-} {} {}} E:/CAD/adder.v {1 {vlog -work work E:/CAD/adder.v
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module adder
-
-Top level modules:
-	adder
-
 } {} {}} E:/CAD/shift_left.v {1 {vlog -work work E:/CAD/shift_left.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling module shift_left_8
 
 Top level modules:
 	shift_left_8
-
-} {} {}} E:/CAD/register4.v {1 {vlog -work work E:/CAD/register4.v
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module register_4
-
-Top level modules:
-	register_4
-
-} {} {}} E:/CAD/register8.v {1 {vlog -work work E:/CAD/register8.v
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module register_8
-
-Top level modules:
-	register_8
-
-} {} {}} E:/CAD/two_bit_mux.v {1 {vlog -work work E:/CAD/two_bit_mux.v
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module two_mux
-
-Top level modules:
-	two_mux
-
-} {} {}} E:/CAD/two_two_multiplier.v {1 {vlog -work work E:/CAD/two_two_multiplier.v
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module two_mult
-
-Top level modules:
-	two_mult
 
 } {} {}} E:/CAD/two_bit_mux8.v {1 {vlog -work work E:/CAD/two_bit_mux8.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
@@ -67,12 +102,5 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 
 Top level modules:
 	register_1
-
-} {} {}} E:/CAD/signext.v {1 {vlog -work work E:/CAD/signext.v
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module zero_extend
-
-Top level modules:
-	zero_extend
 
 } {} {}}
